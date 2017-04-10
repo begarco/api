@@ -1,0 +1,6 @@
+ovh\garcon\ws\GeneralWS.class
+ovh\garcon\ws\services\IService.class
+ovh\garcon\ws\services\HealthCheckService.class
+ovh\garcon\ws\services\GitHubService.class
+ovh\garcon\ws\services\RandomService.class
+ovh\garcon\ws\utils\JsonTransformer.class
