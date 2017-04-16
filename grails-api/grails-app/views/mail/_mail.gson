@@ -1,0 +1,7 @@
+import ovh.garcon.api.Mail
+
+model {
+	Mail mail
+}
+
+json g.render(mail)

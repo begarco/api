@@ -1,0 +1,8 @@
+import ovh.garcon.api.Mail
+
+model {
+	Iterable<Mail> mailList
+}
+
+json tmpl.mail(mailList ?: [])
+

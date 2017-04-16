@@ -1,0 +1,7 @@
+import ovh.garcon.api.File
+
+model {
+	File file
+}
+
+json g.render(file)

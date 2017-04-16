@@ -1,0 +1,7 @@
+import ovh.garcon.api.Contributor
+
+model {
+	Contributor contributor
+}
+
+json tmpl.contributor(contributor)

@@ -1,0 +1,8 @@
+import ovh.garcon.api.Contributor
+
+model {
+	Iterable<Contributor> contributorList
+}
+
+json tmpl.contributor(contributorList ?: [])
+
